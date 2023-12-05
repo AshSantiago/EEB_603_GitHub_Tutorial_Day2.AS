@@ -4,4 +4,4 @@ navbar:
   title: "An Example GitHub Webpage - Intro to Plotting"
   left:
     - text: "Home"
-      href: index.html
+      href: Index.html
