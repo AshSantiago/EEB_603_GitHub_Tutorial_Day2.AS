@@ -140,4 +140,6 @@ ggsave(filename = "./AmericasLifeExp.png", plot = p, width = 20,
 # Now, it is saved in your project directory. The ggsave
 # function will help you meet the specific journal
 # requirements for each publication.
+
+
 ```
