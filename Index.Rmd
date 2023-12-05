@@ -11,7 +11,13 @@ output:
 link-citations: yes   # This function is used to link your in-text citations so that when clicked it will redirect readers to the full-text references
 fontsize: 12pt
 ---
+
+
+
+
+
 ```{r}
+
 ## Load the packages
 # install.packages('gapminder')
 library(gapminder)
